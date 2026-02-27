@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/solution-items/">
+    <File Path="historico_llama.md" />
+    <File Path="plano_llama.md" />
+    <File Path="versao_01.txt" />
+  </Folder>
   <Project Path="TesteLocalLlama/TesteLocalLlama.csproj" />
 </Solution>
